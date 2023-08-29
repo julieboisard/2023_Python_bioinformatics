@@ -2,15 +2,13 @@
 
 # Introduction to python programming and bioinformatics
 
-September 26-30, 2022 - Week 39
+October 2-6, 2022 - Week 40
 
 Course leader: Sara Behnamian & Julie Boisard (Dept. of Biology, Lund University)
 
 sara.behnamian@biol.lu.se
 
 julie.boisard@biol.lu.se
-
-Course adapted from 2021 Python for bioinformatics' Courtney Stairs' course.
 
 
 ## Location and Time
