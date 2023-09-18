@@ -24,17 +24,25 @@ Once inside, you are on the ‘second floor’ (floor 2), turn left to access th
 One day, we'll meet at the Ecologihuset, in the Raggmossan room. [Here](https://www.google.com/maps/@55.7136974,13.2079739,18.33z) and [here](https://www.cec.lu.se/sv/sites/cec.lu.se.sv/files/2020-09/Kurssalar%20Ekologihuset.pdf) are maps to find the room (top corner right in the Tundra building).
 
 
-Date, time and room:
+## Week v 40
 
-Mon 2022-09-26, 9-16, Bioinformatik (D226)
+| Date, time         | Room |
+|-----------------|-----------------------|
+| Mån 2023-10-02  |                       |
+| 09:00 - 16:00   | Retina (D227)         |
+|-----------------|-----------------------|
+| Tis 2023-10-03  |                       |
+| 09:00 - 16:00   | Retina (D227)         |
+|-----------------|-----------------------|
+| Ons 2023-10-04  |                       |
+| 09:00 - 16:00   | Maskrosen (E121)      |
+|-----------------|-----------------------|
+| Tors 2023-10-05 |                       |
+| 09:00 - 16:00   | Retina (D227)         |
+|-----------------|-----------------------|
+| Fre 2023-10-06  |                       |
+| 09:00 - 16:00   | Green Room (A261b)    |
 
-Tue 2022-09-27, 9-16, Bioinformatik (D226)
-
-Wed 2022-09-28, 9-16, Krypt - Raggmossan (T109)
-
-Thu 2022-09-29, 9-16, Liganden (D202)
-
-Fri 2022-09-30, 9-16, Liganden (D202)
 
 For lunch, there is a canteen in the Ecology House that will be open. There are also multiple lunchrooms we will have access to with microwaves.
 
