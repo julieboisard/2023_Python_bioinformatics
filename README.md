@@ -58,9 +58,9 @@ Attendance in mandatory each day to receive credits (3 hp). Evaluation is pass/f
 ## Schedule at a glance
 
 
-### Day1: September 26th 2022
+### Day1: Monday 2023-10-02
 
-Room Bioinformatik (D226)
+Room Retina (D227)  
 
 Morning (Julie)
 
@@ -74,9 +74,9 @@ Afternoon (Sara)
 * Conditions/Loops (If, else, for and while)
 * Logical statements
 
-### Day2: September 27th 2022
+### Day2: Tuesday 2023-10-03
 
-Room Bioinformatik (D226)
+Room Retina (D227)
 
 Morning (Sara)
 
@@ -88,9 +88,9 @@ Afternoon (Julie)
 * Python Core & Biopython 1 
 * Exercices
 
-### Day3: September 28th 2022
+### Day3: Wednesday 2023-10-04  
 
-Room Krypt - Raggmossan (T109)
+Room Maskrosen (E121)
 
 Morning (Julie)
 * Biopython - e-utilities (API)
@@ -100,9 +100,9 @@ Morning (Julie)
 Afternoon (Sara)
 * Pandas
 
-### Day4: September 29th 2022
+### Day4: Thursday 2023-10-05
 
-Room Liganden (D202)
+Room Retina (D227)
 
 Morning (Sara)
 * Pandas
@@ -114,8 +114,8 @@ Afternoon (Julie)
 * Phylogeny
 * Exercices
 
-### Day5: September 30th 2022
+### Day5: Friday 2023-10-06 
 
-Room Liganden (D202)
+Room Green Room (A261b)
 
 * Project Day
