@@ -2,7 +2,7 @@
 
 # Introduction to python programming and bioinformatics
 
-October 2-6, 2022 - Week 40
+October 2-6, 2023 - Week 40
 
 Course leader: Sara Behnamian & Julie Boisard (Dept. of Biology, Lund University)
 
@@ -13,7 +13,7 @@ julie.boisard@biol.lu.se
 
 ## Location and Time
 
-We will meet from 9-16 with breaks around 1030 and 1430.
+We will meet from 9-12 and 13-16 with breaks around 1030 and 1430.
 
 Most of the meetings will be held in the D Houses of the Biology Building located on Sölvegatan 35.
 
@@ -21,7 +21,7 @@ We suggest entering the building from the main entrance on the south side of the
 
 Once inside, you are on the ‘second floor’ (floor 2), turn left to access the D house. [Here](https://maps.app.goo.gl/GDTBdNb1kQpW2FDo8) is a map.
 
-One day, we'll meet at the Ecologihuset, in the Raggmossan room. [Here](https://www.google.com/maps/@55.7136974,13.2079739,18.33z) and [here](https://www.cec.lu.se/sv/sites/cec.lu.se.sv/files/2020-09/Kurssalar%20Ekologihuset.pdf) are maps to find the room (top corner right in the Tundra building).
+One day, we'll meet at the Ecologihuset, in the Masrosen room. [Here](https://www.google.com/maps/@55.7136974,13.2079739,18.33z) and [here](https://www.cec.lu.se/sv/sites/cec.lu.se.sv/files/2020-09/Kurssalar%20Ekologihuset.pdf) are maps to find the room.
 
 
 ## Week v 40
@@ -93,11 +93,13 @@ Afternoon (Julie)
 Room Maskrosen (E121)
 
 Morning (Julie)
+
 * Biopython - e-utilities (API)
 * BLAST
 * Exercises
 
 Afternoon (Sara)
+
 * Pandas
 
 ### Day4: Thursday 2023-10-05
@@ -105,11 +107,13 @@ Afternoon (Sara)
 Room Retina (D227)
 
 Morning (Sara)
+
 * Pandas
 * Exercises
 * Matplotlib
 
 Afternoon (Julie)
+
 * Alignments
 * Phylogeny
 * Exercices
